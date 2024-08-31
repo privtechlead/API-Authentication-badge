@@ -5,4 +5,4 @@
 * OAuth Interaction Patterns
 * Tokens with a JWT, JWS, and JWE focus
 * Scopes and Claims
-* Gateways and APIs passes
+* Gateway and API passes
